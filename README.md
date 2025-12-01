@@ -1,4 +1,4 @@
-# Anlise de Desempenho Modula o BPSK e QPSK
+# Anlise de Desempenho de Modulação Digital: BPSK e QPSK
 
 ## Descrição do Projeto
 Este projeto visa analisar o desempenho de modulação digital usando BPSK (Binary Phase Shift Keying) e QPSK (Quadrature Phase Shift Keying), considerando a influência de ruído (AWGN - Additive White Gaussian Noise) e calculando a Taxa de Erro de Bits (BER - Bit Error Rate) em função da relação sinal-ruído (SNR). Utilizando a codificação NRZ (Non-Return to Zero) e simulando a transmissão de uma mensagem. O projeto foi realizado utiizando google.collab.
